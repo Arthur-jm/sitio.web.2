@@ -1,0 +1,59 @@
+1) True Image 2015 downloaden:
+http://dl.acronis.com/s/AcronisTrueImage2015_de-DE.exe
+
+2) Internetverbindung trennen!
+
+3) True Image installieren, starten und einen der folgenden keys eingeben
+   (es gibt jetzt nur noch eine, nämlich die premium version)
+B5W63Q26-UYYMDNH4-XUSEQL5W-V2WJQBYR-48ZR2XG9-WMT58H77-VTPK86UD-FVB9LH8B
+S3T98PNE-7A6QX6R5-A7EADMWT-HDYVYE2G-EKSFH55F-QUJAUZQ4-DR29YDJZ-H76NXP6Q
+
+4) ein paar sekunden warten, True Image beenden
+
+5) ActivatorAcronisTIH.exe starten
+   Wenn der Activator "aktivierung erfolgreich!" anzeigt, ist alles ok.
+
+6) (dieser schritt kann beim aktuellen build übersprungen werden)
+   das datum auf mind. 31 tage später setzen
+   *nicht* das popup anklicken sondern ATI starten
+   "OFFLINE AKTIVIERUNG" klicken und irgendeinen Aktivierungscode eingeben, z.b. 1234
+
+7) Datum korrigieren, Internetverbindung wiederherstellen und Spass haben...
+
+
+wer das manual braucht:
+http://dl2.acronis.com/u/pdf/ATI2015_userguide_de-DE.pdf
+
+Media Add-on (für PE boot cd -> manual lesen):
+http://dl2.acronis.com/s/AcronisTrueImage2015_addons_de-DE.exe
+
+
+wer nur die normale boot cd braucht:
+http://dl2.acronis.com/s/AcronisTrueImage2015_de-DE.iso
+
+hier gibt es nun das neue, versprochenerweise immer aktuelle
+dl2.acronis.com/s/AcronisUniversalRestore.iso
+nach einem restore auf anderer hardware anwenden
+
+(einen usb-stick mit XBOOT oder YUMI erstellen)
+
+
+
+Falls True Image nach 30 Tagen aktiviert werden möchte:
+"OFFLINE AKTIVIERUNG" klicken und irgendeinen Aktivierungscode eingeben, z.b. 1234
+(dank der gepatchten "libcrypto10.dll" wird alles akzeptiert)
+
+Wer das durchprobieren will:
+"Lizenz" anklicken -> Seriennummer wechseln -> denselben oder anderen key eingeben...
+(dadurch werden auch die dateien für die Notfallmedien aktualisiert,
+falls jemand damit Probleme hat)
+
+
+Bei Problemen: (Hardware ID hat sich geändert) setup.exe erneut starten und "reparieren"
+Danach ActivatorAcronisTIH.exe erneut ausführen
+
+Wenn das nicht hilft: Deinstallieren, Neustarten und vor einer Neuinstallation
+den Cleaner von Acronis laufen lassen (Auswahl 2):
+https://kb.acronis.com/system/files/content/2015/08/48668/CleanupTool_46_en-US.exe
+(neue version 08.09.2015)
+ACHTUNG - ENTFERNT ALLE INSTALLIERTEN ACRONIS PROGRAMME!
