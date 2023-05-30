@@ -1,0 +1,55 @@
+1) True Image 2014 downloaden:
+http://dl.acronis.com/s/ATIH2014_de-DE.exe
+
+2) Internetverbindung trennen!
+
+3) True Image installieren
+
+   premium key (früher pluspack):
+HWSZZPA3-BMH4L69E-X78HKREQ-P9MNPVSU-ZQMERNHY-YVBMDBX8-PZ54XEEX-SM7JU32N
+
+   standard keys:
+DUBKPAJJ-4EL2DF9R-LQJNT4WW-GNP6S53E-PBALEV2S-QSLQ8L59-2R8W45AG-49G5HZZK
+DSWFW22P-M6U7L76S-5CXLA5LC-26HRVSED-4BFC25QJ-JYFTELTY-6CEVQR2N-VWXC7F9C
+A3L34VDR-YXYHHM22-VCNDJ2EU-E5HCSXYF-FXAJUTUY-J6U8TYQ7-3E7JV5VN-32HZ3WR6
+
+4) Am Ende der Installation True Image nicht starten!
+
+5) ActivatorAcronisTIH.exe starten
+   Wenn der Activator "aktivierung erfolgreich!" anzeigt, ist alles ok.
+
+6) Internetverbindung wiederherstellen und Spass haben...
+
+wer das manual braucht:
+http://dl2.acronis.com/u/pdf/ATIH2014_userguide_de-DE.pdf
+
+Media Add-on (für PE boot cd -> manual lesen):
+http://dl2.acronis.com/s/ATIH2014ADDONS_de-DE.exe
+
+
+wer nur die normale premium boot cd braucht:
+http://dl2.acronis.com/s/ATIH2014P_de-DE.iso
+
+(einen usb-stick mit XBOOT oder YUMI erstellen)
+
+
+
+Falls True Image neu aktiviert werden möchte:
+"Aktivieren" anklicken, dann "Von einem anderen Computer aus aktivieren"
+und irgendeinen Aktivierungscode eingeben, z.b. 1234
+(dank der gepatchten "libcrypto10.dll" wird alles akzeptiert)
+
+Wer das durchprobieren will:
+? anklicken -> Seriennummer wechseln -> denselben oder anderen key eingeben...
+(dadurch werden auch die dateien für die Notfallmedien aktualisiert,
+falls jemand damit Probleme hat)
+
+
+Bei Problemen: setup.exe erneut starten und "reparieren"
+Danach ActivatorAcronisTIH.exe erneut ausführen
+
+Wenn das nicht hilft: Deinstallieren, Neustarten und vor einer Neuinstallation
+den Cleaner von Acronis laufen lassen (Auswahl 2):
+https://kb.acronis.com/system/files/content/2015/08/48668/CleanupTool_46_en-US.exe
+(neue version 08.09.2015)
+ACHTUNG - ENTFERNT ALLE INSTALLIERTEN ACRONIS PROGRAMME!

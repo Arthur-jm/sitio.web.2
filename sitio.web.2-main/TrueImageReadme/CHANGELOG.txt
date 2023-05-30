@@ -1,0 +1,36 @@
+latest activator and support:
+http://forums.mydigitallife.info/threads/56395-Acronis-True-Image-activation-patch
+
+neuester activator und support:
+https://boerse.to/thema/acronis-true-image-2016-bis-2012-freischaltung.1198341
+
+
+04/28/2016 - added patch for 19.0.0.6569
+04/18/2016 - added patch for 19.0.0.6559 - media addon is integrated now
+12/02/2015 - added patch for 19.0.0.6027
+10/04/2015 - new adjusted patch for 19.0.0.5628,5634 by Ash P, simplified by luigi42
+09/23/2015 - added patch for 19.0.0.5634
+09/22/2015 - added patch for 19.0.0.5628 and changed GetVersion from vbs/wsh to filever.exe
+09/15/2015 - added patch for 19.0.0.5620
+08/30/2015 - added patch for 19.0.0.5586
+08/27/2015 - added patch for 19.0.0.5576
+08/17/2015 - added patch for 19.0.0.5518
+08/06/2015 - added patch for 18.0.0.6615
+07/21/2015 - added patch for 18.0.0.6613
+11/27/2014 - added patch for 18.0.0.6525
+10/22/2014 - added patch for 18.0.0.6055 and improved sfx parameters
+09/27/2014 - improved "wsh on/off" feature again
+09/23/2014 - improved "wsh on/off" feature
+09/21/2014 - added "wsh on/off" feature and fixed it
+09/19/2014 - changed look of activator and updated internal download link
+09/17/2014 - added patch for 18.0.0.5539
+08/23/2014 - added patch for (inofficial) version 17.0.0.6688 - initial version @ mdl 
+02/18/2014 - added patch for 17.0.0.6673
+10/25/2013 - added patch for 17.0.0.6614
+08/27/2013 - added patch for 17.0.0.5560
+07/07/2013 - added patch for (inofficial) version 16.0.0.6528
+04/06/2013 - added patch for 16.0.0.6514
+12/14/2012 - added patch for (inofficial) version 186.0.0.553987
+12/01/2012 - adjusted error handling code
+09/30/2012 - added patches for 15.0.0.6131,7133
+09/26/2012 - 1. release for 16.0.0.5551
