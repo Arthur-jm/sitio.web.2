@@ -1,0 +1,36 @@
+http://download.acronis.com/ADD12_trial_en-US.exe
+http://download.acronis.com/ADD12_trial_en-EU.exe
+http://download.acronis.com/ADD12_trial_de-DE.exe
+http://download.acronis.com/ADD12_trial_fr-FR.exe
+http://download.acronis.com/ADD12_trial_it-IT.exe
+http://download.acronis.com/ADD12_trial_nl-NL.exe
+http://download.acronis.com/ADD12_trial_ru-RU.exe
+http://download.acronis.com/ADD12_trial_pl-PL.exe
+
+manual can be downloaded at initial setup screen
+
+Use this key
+RTXNQXDF-CLLDC94Y-TE9D7VXP-QBA77K48-M2MZWN59-825ZXF85-JZTTH2NU-7C82TG5N
+click next, use that key 
+EAHJY7ET-A6YHKVKQ-RLTJPPWE-ALVDYCCL-8RGM4JZS-RM65HG3Q-GHE4NMXT-LD6JHGGS
+click next...
+
+nothing else to do!
+
+
+if you have installed ATI(H) & ADD12 you can create boot media with both apps
+use ADD12 to create it (if ATI(H) < 2016)
+
+
+prebuild ADD boot images:
+
+http://dl2.acronis.com/s/ADD12_en-US.iso
+http://dl2.acronis.com/s/ADD12_en-EU.iso
+http://dl2.acronis.com/s/ADD12_de-DE.iso
+http://dl2.acronis.com/s/ADD12_fr-FR.iso
+http://dl2.acronis.com/s/ADD12_it-IT.iso
+http://dl2.acronis.com/s/ADD12_nl-NL.iso
+http://dl2.acronis.com/s/ADD12_ru-RU.iso
+http://dl2.acronis.com/s/ADD12_pl-PL.iso
+
+(create an usb-stick with XBoot or YUMI)

@@ -1,0 +1,12 @@
+body {
+    height: 400px;
+}
+.cover {
+    height: 400px;
+    background-color: rgb(252, 0, 105);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: blueviolet(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
